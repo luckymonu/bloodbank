@@ -99,7 +99,7 @@ require 'cnn.php';
   <tr>
     <td><table width="848" height="374" border="0" align="center" cellpadding="0" cellspacing="0">
       <tr>
-        <td height="121"><a href="index.php"><img src="images/title.jpg" width="1000" height="121" /></a></td>
+        <td height="125"><a href="index.php"><img src="images/title.jpg" width="1000" height="121" /></a></td>
         </tr>
       <tr bgcolor="#CC9933">
         <td height="31" bgcolor="" >&nbsp;</td>
